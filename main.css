@@ -1275,6 +1275,7 @@ a::before{
         padding-left: 0px;
         height: 140px;
         padding-top: 20px;
+        bottom: 30px;
     }
 
     .player-contents{
