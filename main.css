@@ -1214,6 +1214,11 @@ a::before{
         height: 350px;
     }
 
+    .mix-songs-item{
+        width: 135px;
+        height: 135px;
+    }
+
     .nav-toggler-mobile{
         display: block !important;
     }
